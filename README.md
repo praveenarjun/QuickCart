@@ -47,6 +47,8 @@ This command will remove the single build dependency from your project.
 This project is configured to deploy to GitHub Pages. To deploy, run:
 ![Screenshot 2025-05-23 at 2 36 49 PM](https://github.com/user-attachments/assets/520b71eb-7193-4f24-abca-a4d8bdd2800f)
 ![Screenshot 2025-05-23 at 2 36 58 PM](https://github.com/user-attachments/assets/e473e34e-5a67-41af-bb3d-8467ac36934b)
+![Screenshot 2025-05-23 at 4 59 43 PM](https://github.com/user-attachments/assets/d9ce966b-bb8b-43de-8c78-754e87b3f75c)
+
 
 
 
